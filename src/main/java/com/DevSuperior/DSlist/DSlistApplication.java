@@ -7,8 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DSlistApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.(DSlistApplication.class, args);
+		SpringApplication.run(DSlistApplication.class, args);
 	}
-	
-
 }
